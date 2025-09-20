@@ -1,0 +1,42 @@
+.container1{
+  width: 800px;
+  height: 400px;
+  background-color: violet;
+  position: relative;
+  top:100px;
+  left: 250px;
+  border: 2px solid black;
+}
+
+.contain2{
+    width:600px;
+  height: 300px;
+  background-color: blue;
+  z-index: 1;
+  position: absolute;
+  top: 48px;
+  left: 100px;
+  border: 2px solid black;
+}
+
+.container3{
+    width:400px;
+  height: 200px;
+  background-color: pink;
+  z-index: 1;
+  position: absolute;
+  top: 53px;
+  left: 102px;
+  border: 2px solid black;
+}
+
+.container4{
+    width:200px;
+  height: 100px;
+  background-color: orangered;
+  z-index: 1;
+  position: absolute;
+  top: 53px;
+  left: 102px;
+  border: 2px solid black;
+}
